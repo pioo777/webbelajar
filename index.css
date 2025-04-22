@@ -1,0 +1,192 @@
+.body{
+    width: 100%;
+    height: 1800;
+   /* background-color: darkblue;*/
+}
+.header{
+    width: 100%;
+    height: 500px;
+/*    background-color: darkcyan;*/
+    margin: auto;
+}
+.badan{
+    width: 100%;
+    height: 680px;
+   /* background-color: darkgray;*/
+    margin: auto;
+}
+.footer{
+    width: 100%;
+    height: 400px;
+   /* background-color: darkred;*/
+    margin: auto;
+    display: flex;
+    justify-content: space-around;
+    margin-top:40px;
+}
+.atas{
+    width: 100%;
+    height: 100px;
+    background-color: black;
+    display: flex;
+    justify-content: space-around;
+}
+.bawah{
+     width: 100%;
+    height: 300px;
+    /*background-color: darkolivegreen;*/
+    display: flex;
+    justify-content: space-around;
+    margin-top: 30px;
+}
+.kiri{
+     width: 30%;
+    height: 100px;
+  background-color: brown;
+}
+.kanan{
+     width: 10%;
+    height: 100px;
+   background-color: blue;
+}
+.kiri1{
+     width: 20%;
+    height: 300px;
+    background-color: royalblue;
+}
+.kanan1{
+     width: 40%;
+    height: 300px;
+    background-color: rosybrown;
+}
+#mnu{
+    color: white;
+    text-align: center;
+}
+.text{
+    width: 100%;
+    height:250px;  
+    background-color: rosybrown;
+}
+
+
+.tombol{
+    width: 50%;
+    height: 50px;
+    background-color: black;
+    
+}
+.ror1{
+    width: 100%;
+    height: 300px;
+   /* background-color: aquamarine;*/
+    display: flex;
+    justify-content: space-around;
+    
+}
+.ror2{
+    width: 100%;
+    height: 300px;
+ /*   background-color: red;*/
+     display: flex;
+    justify-content: space-around;
+    margin-top: 10px;
+}
+.ror3{
+    width: 100%;
+    height: 60px;
+    background-color: black;
+     display: flex;
+    justify-content: space-around;
+    margin-top: 30px;
+}
+.kiri2{
+    width: 40%;
+    height: 300px;
+    background-color: darkblue;
+    
+}.kanan2{
+    width: 40%;
+    height: 300px;
+    background-color: darkcyan;
+}
+#nma{
+    color: white;
+}
+.kiri3{
+    width: 50%;
+    height: 300px;
+    background-color: deepskyblue;
+}
+.kanan3{
+    width: 30%;
+    height: 300px;
+    background-color: darkgoldenrod;
+}
+#tmn{
+    text-align: center;
+    color: white;
+}
+.foto-teman1{
+    width: 30%;
+    height: 200px;
+    background-color: cadetblue;
+    border-radius: 50%;
+    margin: auto;
+}
+.foto-teman2{
+    width: 30%;
+    height: 200px;
+    background-color: cadetblue;
+    border-radius: 50%;
+    margin: auto;
+}
+.foto-teman3{
+    width: 30%;
+    height: 200px;
+    background-color: cadetblue;
+    border-radius: 50%;
+    margin: auto;
+}
+.paling-bawah{
+    width: 100%;
+    height: 120px;
+    background-color: black;
+    padding-top: 10px;
+}
+#namaa{
+    color: white;
+    text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
